@@ -2,7 +2,7 @@
 
 A small web tool built for a client's newsletter. It collects recent news about Industry 4.0 and manufacturing events in one place, so the client can pick the stories they want and write them up, instead of searching for them by hand each week.
 
-<!-- Placeholder: add the live Netlify link or a screenshot here -->
+Live: [jeff-newsletter-tool.netlify.app](https://jeff-newsletter-tool.netlify.app/)
 
 ## How it works
 
